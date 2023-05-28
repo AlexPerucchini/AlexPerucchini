@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexPerucchini
-- 👀 I’m interested in SRE/DevOps/Security/DevSecOps/Agile
-- 🌱 I’m currently learning GCP
+- 👀 I’m interested in Security/DevSecOps/Agile
+- 🌱 Specializing in Vulnerability Management, SEC Audits and Pen Testing
 
 <!---
 AlexPerucchini/AlexPerucchini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
